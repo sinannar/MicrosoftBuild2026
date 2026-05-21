@@ -16,6 +16,7 @@
 
 | NZST | PDT | Code | Session | Type | Level |
 |------|-----|------|---------|------|-------|
+| 7:00 AM | 12:00 PM | [DEM302](2026-06-03/DEM302.md) | Build and deploy an Azure app with your agent team | Demo | 200 |
 | 8:50 AM | 1:50 PM | [LTG453](2026-06-03/LTG453.md) | Building an End-to-End Enterprise AI Platform on Azure | Lightning Talk | 300 |
 | 9:10 AM | 2:10 PM | [LTGSP481](2026-06-03/LTGSP481.md) | Build reliable coding agents with .NET and durable workflows | Lightning Talk | 400 |
 | 9:30 AM | 2:30 PM | [BRK223](2026-06-03/BRK223.md) | From rows to reasoning: Designing databases for AI apps and agents | Breakout | 300 |
@@ -40,6 +41,7 @@
 
 | NZST | PDT | Code | Session | Type | Level |
 |------|-----|------|---------|------|-------|
+| 8:30 AM | 1:30 PM | [BRK202](2026-06-04/BRK202.md) | Azure DevOps meets GitHub, the path to AI powered SDLC | Breakout | 300 |
 | 9:45 AM | 2:45 PM | [BRK205](2026-06-04/BRK205.md) | Aspire for agents: Transform how you build and deploy distributed apps | Breakout | 200 |
 | 10:30 AM | 3:30 PM | [DEM361](2026-06-04/DEM361.md) | Understand and fix Agent Framework apps with observability and evals | Demo | 300 |
 | 11:00 AM | 4:00 PM | [BRK207](2026-06-04/BRK207.md) | GitHub Copilot in Visual Studio: Agents That Debug, Profile, and Test | Breakout | 300 |
