@@ -115,3 +115,38 @@ Sessions that didn't make the live schedule due to conflicts — prioritised for
 | Azure User Group Organiser | BRK223, BRK241, LTG453 |
 | AI/Agent Builder | BRK241, BRK243, DEM361, LTG466 |
 | GitHub Partner | DEM305, BRK207, DEM301 (on-demand) |
+
+---
+
+## 🛠️ How This Schedule Was Created
+
+This personalised agenda was generated using:
+
+| Tool | Purpose |
+|------|---------|
+| [GitHub Copilot CLI](https://github.com/github/copilot-cli) | AI-powered terminal assistant that orchestrated the research, filtering, and file generation |
+| [Microsoft Build Skill](https://github.com/microsoft/Build-CLI) | Copilot CLI skill for searching and filtering Microsoft event session catalogs |
+| [`@microsoft/events-cli`](https://www.npmjs.com/package/@microsoft/events-cli) | CLI tool for local session catalog search, caching, and multi-event support |
+| [Microsoft Learn MCP Server](https://learn.microsoft.com/en-us/training/support/mcp) | Live documentation search for SDK versions, what's-new pages, and code samples |
+| [Build 2026 Session Catalog](https://build.microsoft.com/sessions) | Live session data source (via `https://aka.ms/build2026-session-info`) |
+
+### Process
+
+1. **Profile analysis** — Scanned [sinannar.github.io](https://sinannar.github.io/) and [github.com/sinannar](https://github.com/sinannar) to build a tech inventory
+2. **Session search** — Queried the Build 2026 catalog across each technology: .NET Aspire, C#, Entity Framework, Microsoft Agent Framework, Azure Container Apps, Azure Functions, Cosmos DB, GitHub Actions, AKS
+3. **Conflict resolution** — Identified overlapping sessions and prioritised based on stack relevance, session type (labs > breakouts for hands-on learners), and speaker expertise
+4. **Timezone adaptation** — Converted all times from PDT (UTC-7) to NZST (UTC+12)
+5. **On-demand prioritisation** — Ranked conflicting sessions into 3 priority tiers for post-Build viewing
+
+### Reproduce or Update
+
+```bash
+# Search for sessions by technology
+npx -y @microsoft/events-cli sessions --tech ".NET Aspire" --event build-2026 --json
+
+# Look up a specific session
+npx -y @microsoft/events-cli session BRK205 --event build-2026 --json
+
+# Refresh the local cache
+npx -y @microsoft/events-cli refresh --event build-2026
+```
