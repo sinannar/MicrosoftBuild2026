@@ -51,20 +51,39 @@
 
 ---
 
-## ⚠️ Conflicts — Watch On-Demand
+## 📼 Watch On-Demand ([`recorded/`](recorded/))
 
-These sessions conflict with higher-priority picks but are still highly relevant:
+Sessions that didn't make the live schedule due to conflicts — prioritised for post-Build viewing.
 
-| Code | Title | Conflicts With | Why Watch Later |
-|------|-------|----------------|-----------------|
-| BRK241 | From prototype to production: build and run agents at scale | LAB511 | Agent Framework lifecycle (replaced by hands-on lab) |
-| LTG455 | From Code to Agents: Build Production MCP Servers on Azure Functions | BRK223 (5 min overlap) | MCP + Azure Functions + Azure DevOps CI/CD |
-| DEM333 | How Foundry integrates with open-source frameworks and tools | LAB511 | Agent Framework + LangGraph + MCP + A2A |
-| BRK221 | Idea to production-ready agent in seconds on AI-native runtime | BRK205 | Azure Container Apps for agentic workloads |
-| DEM301 | Rethinking CI: Actions, AI Agents, and the End of Commit-Fail-Commit | BRK205 | GitHub Actions + AI agents + MCP |
-| BRK224 | PepsiCo's blueprint for agentic AI | BRK205 | Azure SQL + Cosmos DB + PostgreSQL data layer |
-| TT656 | From Locked-In to Liquid: Modernizing .NET Before November 2026 EOL | LAB511 | .NET 8/9 EOL migration strategies |
-| BRK250 | Govern open-source AI agents, any framework, any scale | BRK223 | Enterprise agent governance |
+### Priority 1 — Watch First Week After Build
+
+| Code | Title | Conflicted With | Duration |
+|------|-------|-----------------|----------|
+| [BRK241](recorded/BRK241.md) | From prototype to production: build and run agents at scale | LAB511 | 45 min |
+| [DEM301](recorded/DEM301.md) | Rethinking CI: Actions, AI Agents, and the End of Commit-Fail-Commit | BRK205 | 25 min |
+| [BRK250](recorded/BRK250.md) | Govern open-source AI agents, any framework, any scale | BRK223 | 45 min |
+| [LTG455](recorded/LTG455.md) | From Code to Agents: Build Production MCP Servers on Azure Functions | BRK223 | 15 min |
+| [DEM333](recorded/DEM333.md) | How Foundry integrates with open-source frameworks and tools | LAB511 | 25 min |
+
+### Priority 2 — Watch Within Two Weeks
+
+| Code | Title | Conflicted With | Duration |
+|------|-------|-----------------|----------|
+| [BRK221](recorded/BRK221.md) | Idea to production-ready agent in seconds on AI-native runtime | BRK205 | 45 min |
+| [BRK224](recorded/BRK224.md) | PepsiCo's blueprint for agentic AI | BRK205 | 45 min |
+| [BRK252](recorded/BRK252.md) | From observability to ROI for AI agents on any framework | LAB511 | 45 min |
+| [TT656](recorded/TT656.md) | From Locked-In to Liquid: Modernizing .NET Before November 2026 EOL | LAB511 | 45 min |
+| [DEM341](recorded/DEM341.md) | Any agent, any cloud: Standardized tracing with Foundry+OpenTelemetry | BRK243 | 25 min |
+
+### Priority 3 — Watch When Time Permits
+
+| Code | Title | Why |
+|------|-------|-----|
+| [LTG401](recorded/LTG401.md) | 10 ways to maximize GitHub Copilot | Community-friendly content for user group talks |
+| [DEMSP394](recorded/DEMSP394.md) | Scale enterprise .NET apps with AI-assisted cross-platform workflows | Enterprise .NET + AI workflows |
+| [ODSP909](recorded/ODSP909.md) | Take AI agents from prototype to production with OpenTelemetry | Agent Framework + observability (foundational) |
+| [ODSP901](recorded/ODSP901.md) | Discover, govern, and scale Azure resources with HashiCorp Terraform | Terraform IaC governance for AI workloads |
+| [TT667A](recorded/TT667A.md) | Growing Local Developer Communities with Azure Tech Groups | Community leadership (network at Build instead) |
 
 ## 🧪 Other Labs Worth Considering (Digital/On-Demand)
 
