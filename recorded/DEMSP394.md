@@ -7,6 +7,7 @@
 | **Speakers** | Sam Basu, Colin Whitlatch |
 | **Location** | Festival Pavilion, Theater A |
 | **Type** | Demo |
+| **Build Link** | [View on build.microsoft.com](https://build.microsoft.com/sessions/DEMSP394) |
 | **Level** | 200 (Intermediate) |
 | **Topic** | Developer tools & frameworks |
 | **Tags** | AI, Agents, .NET, GitHub Copilot, Visual Studio Code, Visual Studio |

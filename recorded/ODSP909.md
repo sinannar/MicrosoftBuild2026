@@ -5,6 +5,7 @@
 | **Time** | Pre-recorded (available on-demand) |
 | **Speaker** | Harry Kimpel |
 | **Type** | Pre-recorded |
+| **Build Link** | [View on build.microsoft.com](https://build.microsoft.com/sessions/ODSP909) |
 | **Level** | 100 (Foundational) |
 | **Topic** | Agents & apps |
 | **Tags** | AI, Observability, Reliability, Agents, MCP, Foundry Agents, Azure DevOps, Agent Observability, Agentic SDLC |

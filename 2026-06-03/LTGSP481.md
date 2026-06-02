@@ -7,6 +7,7 @@
 | **Speaker** | Shriram Sankaran, Vishnu Menon, Ginger Reed |
 | **Location** | Gateway Pavilion, Level 2, Theater 3 |
 | **Type** | Lightning Talk |
+| **Build Link** | [View on build.microsoft.com](https://build.microsoft.com/sessions/LTGSP481) |
 | **Level** | 400 (Expert) |
 | **Topic** | Agents & apps |
 | **Tags** | AI, Automation, Agents, .NET, Developer |

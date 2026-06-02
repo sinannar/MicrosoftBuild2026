@@ -5,6 +5,7 @@
 | **Time** | Pre-recorded (available on-demand) |
 | **Speaker** | Kerim Satirli |
 | **Type** | Pre-recorded |
+| **Build Link** | [View on build.microsoft.com](https://build.microsoft.com/sessions/ODSP901) |
 | **Level** | 200 (Intermediate) |
 | **Topic** | Developer tools & frameworks |
 | **Tags** | Azure, Scaling, Terraform, Developer Frameworks |
