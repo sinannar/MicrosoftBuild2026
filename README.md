@@ -10,24 +10,25 @@
 
 ## Schedule Overview
 
-### 📅 Day 1 — Tuesday 3 June (NZST)
+### 📅 Day 1 — Wednesday 3 June (NZST)
 
-*Conference Day 1 — Monday 2 June PDT*
+*Conference Day 1 — Tuesday 2 June PDT*
 
 | NZST | PDT | Code | Session | Type | Level |
 |------|-----|------|---------|------|-------|
-| 7:00 AM | 12:00 PM | [DEM302](2026-06-03/DEM302.md) | Build and deploy an Azure app with your agent team | Demo | 200 |
 | 8:50 AM | 1:50 PM | [LTG453](2026-06-03/LTG453.md) | Building an End-to-End Enterprise AI Platform on Azure | Lightning Talk | 300 |
 | 9:10 AM | 2:10 PM | [LTGSP481](2026-06-03/LTGSP481.md) | Build reliable coding agents with .NET and durable workflows | Lightning Talk | 400 |
 | 9:30 AM | 2:30 PM | [BRK223](2026-06-03/BRK223.md) | From rows to reasoning: Designing databases for AI apps and agents | Breakout | 300 |
 | 10:00 AM | 3:00 PM | [LAB511](2026-06-03/LAB511.md) | 🧪 Create advanced Postgres-powered agentic apps with Azure HorizonDB | **Lab** | 300 |
 | 11:30 AM | 4:30 PM | [DEM310](2026-06-03/DEM310.md) | Ship code faster with AI-powered NoSQL schema design | Demo | 200 |
+| 11:45 AM | 4:45 PM | [LAB530-R1](2026-06-03/LAB530-R1.md) | 🧪 Engineering agents that reason, act, and adapt | **Lab** | 300 |
+| 12:30 PM | 5:30 PM | [DEM302](2026-06-03/DEM302.md) | Build and deploy an Azure app with your agent team | Demo | 200 |
 
-> 📝 **Schedule change**: LAB511 (75 min hands-on) replaces BRK241 in the Day 1 schedule. BRK241 moved to on-demand — the lab's hands-on PostgreSQL/AI experience is more valuable than a passive breakout for your stack.
+> 📝 **Schedule changes**: LAB511 (75 min hands-on) replaces BRK241 in the Day 1 schedule. LAB530-R1 moved from Day 2 to Day 1 — it slightly overlaps with DEM310's end (arrive at 11:55 when DEM310 finishes). DEM302 moved to 5:30 PM PDT (was 12:00 PM).
 
-### 📅 Day 2 — Wednesday 4 June (NZST)
+### 📅 Day 2 — Thursday 4 June (NZST)
 
-*Conference Day 2 — Tuesday 3 June PDT*
+*Conference Day 2 — Wednesday 3 June PDT*
 
 #### 🌅 Early Block (optional — requires early start)
 
@@ -45,9 +46,6 @@
 | 9:45 AM | 2:45 PM | [BRK205](2026-06-04/BRK205.md) | Aspire for agents: Transform how you build and deploy distributed apps | Breakout | 200 |
 | 10:30 AM | 3:30 PM | [DEM361](2026-06-04/DEM361.md) | Understand and fix Agent Framework apps with observability and evals | Demo | 300 |
 | 11:00 AM | 4:00 PM | [BRK207](2026-06-04/BRK207.md) | GitHub Copilot in Visual Studio: Agents That Debug, Profile, and Test | Breakout | 300 |
-| 11:45 AM | 4:45 PM | [LAB530-R1](2026-06-04/LAB530-R1.md) | 🧪 Engineering agents that reason, act, and adapt | **Lab** | 300 |
-
-> 📝 **Bonus lab**: LAB530-R1 starts right after BRK207 ends — perfect finish to Day 2 with 75 min of hands-on Foundry Agent Service + MCP tools.
 
 ---
 

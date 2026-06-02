@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Original Time (NZST)** | 9:40 AM – 10:05 AM, Wednesday 3 June |
-| **Original Time (PDT)** | 2:40 PM – 3:05 PM, Monday 2 June |
+| **Original Time (PDT)** | 2:40 PM – 3:05 PM, Tuesday 2 June |
 | **Speakers** | Sam Basu, Colin Whitlatch |
 | **Location** | Festival Pavilion, Theater A |
 | **Type** | Demo |

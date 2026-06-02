@@ -3,8 +3,8 @@
 | | |
 |---|---|
 | **Time (NZST)** | 9:10 AM – 9:25 AM, Wednesday 3 June |
-| **Time (PDT)** | 2:10 PM – 2:25 PM, Monday 2 June |
-| **Speaker** | Shriram Sankaran |
+| **Time (PDT)** | 2:10 PM – 2:25 PM, Tuesday 2 June |
+| **Speaker** | Shriram Sankaran, Vishnu Menon, Ginger Reed |
 | **Location** | Gateway Pavilion, Level 2, Theater 3 |
 | **Type** | Lightning Talk |
 | **Level** | 400 (Expert) |
